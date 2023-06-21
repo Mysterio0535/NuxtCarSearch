@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Mirai",
+        "make": "Toyota",
+        "model": "Mirai",
+        "price": "50,000",
+        "year": 2020,
+        "city": "Los Angeles",
+        "url": "https://nextcar.ua/images/thumbnails/1200/800/detailed/537/1_3otj-lg.jpg.jpg",
+        "seats": 5,
+        "miles": "2000",
+        "features": "No Accindents, Low miles, ...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga amet maiores dolore incidunt hic nostrum, nihil obcaecati reprehenderit ab magnam!"
+    },
+    {
+        "id": 2,
+        "name": "Mazzerati Lavente",
+        "make": "Mazzerati",
+        "model": "Lavente",
+        "price": "155,000",
+        "year": 2021,
+        "city": "Miami",
+        "url": "https://maserati.scene7.com/is/image/maserati/maserati/international/Models/my22/levante-my22/my22/16_9/lv_3_front.jpg?$1920x2000$&fit=constrain",
+        "seats": 5,
+        "miles": "",
+        "features": "No Accindents, Low miles, ...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga amet maiores dolore incidunt hic nostrum, nihil obcaecati reprehenderit ab magnam!"
+    }
+]
