@@ -1,6 +1,12 @@
 <script setup>
+// import useFetchCar from '~/composables/useFetchCar';
+
 const route = useRoute()
 const {cars} = useCars()
+
+// const {data, car} = await useFetchCar(route.params.id)
+const user = useSupabaseUser()
+
 const {toTitleCase} = useUtilities()
 
 useHead({
@@ -39,6 +45,5 @@ definePageMeta({
             <CarDetailDescription :description="car.description"/>
             <CarDetailContact/>
         <!-- </div> -->
-
     </div>
 </template>

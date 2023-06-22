@@ -21,6 +21,7 @@
   "dependencies": {
     "@nuxt/image-edge": "^1.0.0-rc.1-28119537.bfe30ab",
     "@nuxtjs/tailwindcss": "^6.7.2",
-    "@vueuse/nuxt": "^9.6.0"
+    "@vueuse/nuxt": "^9.6.0",
+    "prisma": "^4.16.0"
   }
 }
